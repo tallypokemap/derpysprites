@@ -1,2 +1,2 @@
 # derpysprites
-Credit to Leevo for sprites collection and nameing.
+Credit to Leevo for sprites collection and naming.
